@@ -1,7 +1,7 @@
 name: D8-feedback
 favicon: null
-layout_spectrum: 0.9128493831958622
-typography_spectrum: 0.5873139116447419
+layout_spectrum: 0.25748
+typography_spectrum: 0.60829
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.4647055340465158
-  lightness: 0.5432350186165422
-  saturation: 0.5313756975810975
-  rhythmicContrast: 0.7878784439526498
+    - '#ffffff'
+    - '#b10f1a'
+    - '#c1c1c1'
+    - '#717171'
+    - '#141414'
+  brandStrength: 0.375
+  lightness: 0.3125
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
