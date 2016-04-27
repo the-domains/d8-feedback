@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T18:01:41.520Z'
-dateModified: '2016-04-27T18:01:36.181Z'
+datePublished: '2016-04-27T18:09:10.888Z'
+dateModified: '2016-04-27T18:08:12.588Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-27-bm-senior-home-manager.md
@@ -19,7 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: bm-senior-home-manager/index.html
+_type: Article
 
 ---
 > Firstly apologies for my late feedback, I wanted time to reflect and digest what we learnt and how it compared to previous training i have had. 
