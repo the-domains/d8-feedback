@@ -1,6 +1,6 @@
 name: D8-feedback
 favicon: null
-layout_spectrum: 0.36723
+layout_spectrum: 0.41431
 typography_spectrum: 0.85687
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#c1c1c1'
     - '#717171'
     - '#141414'
-  brandStrength: 0.375
+  brandStrength: 0.3125
   lightness: 0.3125
   saturation: 0.6875
   rhythmicContrast: 0.5
