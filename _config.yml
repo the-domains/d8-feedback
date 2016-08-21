@@ -19,13 +19,13 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: de-escalate.com participants feedback
+name: "de-escalate.com\_"
 cta:
   domain: null
   bucket: null
   version: null
 navigation:
-  - name: D8-Training
+  - name: de-escalation.training
     url: 'http://de-escalation.training/'
     type: external
 favicon: null
