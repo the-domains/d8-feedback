@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: D8-feedback
+name: de-escalate.com participants feedback
 cta:
   domain: null
   bucket: null
@@ -30,4 +30,5 @@ navigation:
     type: external
 favicon: null
 title: de-escalation
+description: participant views
 purpose: []
