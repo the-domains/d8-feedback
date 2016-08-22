@@ -1,4 +1,3 @@
-layout_spectrum: 0.4465689407661557
 typography_spectrum: 0.531480330741033
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4465689407661557
 analytics:
   google: null
   facebook: null
@@ -27,6 +27,9 @@ cta:
 navigation:
   - name: de-escalation.training
     url: 'http://de-escalation.training/'
+    type: external
+  - name: About
+    url: 'http://de-escalate.com'
     type: external
 favicon: null
 title: de-escalation.training
