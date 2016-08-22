@@ -31,6 +31,9 @@ navigation:
   - name: about
     url: 'http://de-escalate.com'
     type: external
+  - name: FB
+    url: 'http://facebook.com/descal8'
+    type: external
 favicon: null
 title: de-escalation.training
 description: participant views
