@@ -28,7 +28,7 @@ navigation:
   - name: de-escalation.training
     url: 'http://de-escalation.training/'
     type: external
-  - name: 'a#bout'
+  - name: about
     url: 'http://de-escalate.com'
     type: external
 favicon: null
