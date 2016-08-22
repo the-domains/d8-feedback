@@ -1,5 +1,6 @@
-layout_spectrum: 0.5215960529167205
 typography_spectrum: 0.5416500987485051
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#C1000B'
@@ -15,10 +16,13 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5215960529167205
 analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/97a37c3a-dcad-40bb-a66e-9191576f6ff2.png
 name: "de-escalate.com\_"
 cta:
   domain: null
@@ -34,7 +38,8 @@ navigation:
   - name: FB
     url: 'http://facebook.com/descal8'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31e13754-c9c2-43f8-8324-e1f5a444d4f0.png
 title: de-escalation.training
 description: participant views
 purpose: []
