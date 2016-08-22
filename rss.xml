@@ -4,8 +4,15 @@
         <description><![CDATA[de-escalation.training]]></description>
         <link>http://de-escalation.club/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 22:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 23:23:08 GMT</lastBuildDate>
         <atom:link href="http://de-escalation.club/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I'd highly recommend this @DeESCAL8 course #PBS #PositiveHandling #MovementNOTRestraint https://twitter.com/skyboundtherapy/status/717989513092530177 ...</p>]]></description>
+            <link>https://twitter.com/rhianthorne1408/status/721037937887092736</link>
+            <guid isPermaLink="false">c94a858c-57dd-473b-8db0-be6cea06b2ac</guid>
+            <pubDate>Sun, 21 Aug 2016 23:23:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Brilliant course. It has given me the confidence to remain calm when my son is very upset – keeping calm is the best thing for him.</p>]]></description>
@@ -61,13 +68,6 @@
             <link>https://alifeunlimited.wordpress.com/2015/05/25/de-escalating-with-d-escal8/</link>
             <guid isPermaLink="false">6c80fe98-f18f-400d-9306-c1a0f45b09fe</guid>
             <pubDate>Fri, 22 Apr 2016 22:58:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I'd highly recommend this @DeESCAL8 course #PBS #PositiveHandling #MovementNOTRestraint https://twitter.com/skyboundtherapy/status/717989513092530177 ...</p>]]></description>
-            <link>https://twitter.com/rhianthorne1408/status/721037937887092736</link>
-            <guid isPermaLink="false">c94a858c-57dd-473b-8db0-be6cea06b2ac</guid>
-            <pubDate>Fri, 22 Apr 2016 00:02:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
