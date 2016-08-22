@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T19:00:26.494Z'
+datePublished: '2016-08-22T19:00:33.956Z'
 sourcePath: _posts/2016-04-27-bm-senior-home-manager.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T19:00:23.136Z'
+dateModified: '2016-08-22T19:00:33.134Z'
 title: ''
 publisher: {}
 description: >-
