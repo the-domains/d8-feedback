@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T18:48:55.473Z'
+datePublished: '2016-08-22T18:57:53.183Z'
 sourcePath: _posts/2016-04-27-bm-senior-home-manager.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T18:48:54.895Z'
+dateModified: '2016-08-22T18:57:52.455Z'
 title: ''
 publisher: {}
 description: >-
@@ -50,8 +50,6 @@ url: bm-senior-home-manager/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76528d12-3af9-401a-817c-1c3e4c0a78ea.jpg)
-
 > Firstly apologies for my late feedback, I wanted time to reflect and digest what we learnt and how it compared to previous training i have had.
 > 
 > So: My previous experience of this type of training is built upon Skip and more recently PBM, in both cases I have managed packages of support that provide support to people who often found themselves in distressing situations and in all of my previous training we reverted to crisis management. When I first experienced PBM I described it as advanced compared to Skip, but essentially the results were the same - staff decide when somebody is in crisis and when to redirect them. I think the day to day work involved with PBM is spot on, establish primary and secondary responses to known behaviours and triggers does tend to keep people from distressing situations. It is the crisis management laden with defensive stances, that feels like a change. I never questioned it until d.escal8 and then it hit me like a sudden awakening. To treat a crisis in the same way as your prevention strategies makes this training truly holistic and now I have registered it it is the only way I can see physical interventions passing the 'mum test' - I would want my relatives treated with this level of respect.
