@@ -1,33 +1,12 @@
+name: "de-escalate.com\_"
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31e13754-c9c2-43f8-8324-e1f5a444d4f0.png
+layout_spectrum: 0.34108
 typography_spectrum: 0.5416500987485051
 content_rating:
   adult: false
-color:
-  brandColors:
-    - '#C1000B'
-    - '#A5A6A7'
-    - '#000000'
-    - '#333333'
-    - '#808080'
-  brandStrength: 0.9349734713323414
-  lightness: 0.6047622906044126
-  saturation: 0.9283316468354315
-  rhythmicContrast: 0.9466831656172872
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.5215960529167205
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5679543-0482-456b-ba60-052841508c46.png
-name: "de-escalate.com\_"
-cta:
-  domain: null
-  bucket: null
-  version: null
 navigation:
   - name: de-escalation.training
     url: 'http://de-escalation.training/'
@@ -38,8 +17,29 @@ navigation:
   - name: FB
     url: 'http://facebook.com/descal8'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31e13754-c9c2-43f8-8324-e1f5a444d4f0.png
 title: de-escalation.training
 description: participant views
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#C1000B'
+    - '#A5A6A7'
+    - '#000000'
+    - '#333333'
+    - '#808080'
+  brandStrength: 0.75
+  lightness: 0.6047622906044126
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
