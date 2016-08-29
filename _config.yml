@@ -1,8 +1,19 @@
+layout_spectrum: 0.9165642040316015
+typography_spectrum: 0.5544096424710006
+color:
+  brandColors:
+    - '#C1000B'
+    - '#A5A6A7'
+    - '#000000'
+    - '#333333'
+    - '#808080'
+  brandStrength: 0.04057630733586848
+  lightness: 0.6858892894815654
+  saturation: 0.47386253741569817
+  rhythmicContrast: 0.91505222232081
 name: "de-escalate.com\_"
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/31e13754-c9c2-43f8-8324-e1f5a444d4f0.png
-layout_spectrum: 0.34108
-typography_spectrum: 0.5416500987485051
 content_rating:
   adult: false
 logo: >-
@@ -31,15 +42,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#C1000B'
-    - '#A5A6A7'
-    - '#000000'
-    - '#333333'
-    - '#808080'
-  brandStrength: 0.75
-  lightness: 0.6047622906044126
-  saturation: 0.5625
-  rhythmicContrast: 0.5
 purpose: []
